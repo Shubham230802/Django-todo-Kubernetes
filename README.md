@@ -1,5 +1,5 @@
-# django-todo
-A simple todo app built with django
+# django-todo-Kubernetes
+A simple todo app built with django and deploy with Kubernetes
 
 ### **Step 1: Clone the code**
 ```
